@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Vladimir
 
-<!--
-**jetiaks-AKS/jetiaks-AKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open-source developer focused on **macOS automation, DevOps, infrastructure, networking, and developer tooling**.
 
-Here are some ideas to get you started:
+I build practical tools and automation for reproducible development environments and system infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### Mac Bootstrap Toolkit
+
+A modular toolkit for discovering and reproducibly restoring a macOS development environment.
+
+**Workflow:**  
+Existing Mac → Discovery → Generated Configuration → Bootstrap → Ready-to-work Mac
+
+**Current stable release:** v2.0.1
+
+[View Mac Bootstrap Toolkit →](https://github.com/jetiaks-AKS/mac-bootstrap-toolkit)
+
+## Areas of Interest
+
+- macOS and Unix automation
+- DevOps and infrastructure
+- Networking, VPN, routing, and DNS
+- Bash and shell tooling
+- Git and GitHub workflows
+- Monitoring and system reliability
+- AI-assisted software development
+
+## Tech
+
+`macOS` · `Linux` · `Bash` · `Git` · `GitHub` · `Homebrew` · `SSH` · `Networking` · `VPN` · `VS Code`
+
+---
+
+Currently building and evolving **Mac Bootstrap Toolkit** toward a more complete and reproducible macOS environment management workflow.
