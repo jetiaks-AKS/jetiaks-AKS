@@ -1,36 +1,38 @@
 # Hi, I'm Vladimir
 
-Open-source developer focused on **macOS automation, DevOps, infrastructure, networking, and developer tooling**.
+Open-source developer focused on macOS automation, infrastructure, networking, and developer tooling.
 
-I build practical tools and automation for reproducible development environments and system infrastructure.
+I build practical tools for reproducible environments, system automation, and reliable infrastructure.
 
 ## Featured Project
 
-### Mac Bootstrap Toolkit
+### Macseed
 
-A modular toolkit for discovering and reproducibly restoring a macOS development environment.
+**Capture. Rebuild. Continue.**
+
+Macseed captures the reproducible parts of a Mac working environment, rebuilds them on a clean Mac, and verifies the result.
 
 **Workflow:**  
-Existing Mac → Discovery → Generated Configuration → Bootstrap → Ready-to-work Mac
+Capture → Rebuild → Verify
 
-**Current stable release:** v2.0.1
+**Current stable release:** v3.3.0
 
-[View Mac Bootstrap Toolkit →](https://github.com/jetiaks-AKS/mac-bootstrap-toolkit)
+[View Macseed →](https://github.com/jetiaks-AKS/macseed)
 
 ## Areas of Interest
 
 - macOS and Unix automation
+- Developer tooling
 - DevOps and infrastructure
 - Networking, VPN, routing, and DNS
-- Bash and shell tooling
 - Git and GitHub workflows
-- Monitoring and system reliability
+- System reliability
 - AI-assisted software development
 
 ## Tech
 
-`macOS` · `Linux` · `Bash` · `Git` · `GitHub` · `Homebrew` · `SSH` · `Networking` · `VPN` · `VS Code`
+`macOS` · `Linux` · `Bash` · `Python` · `Git` · `GitHub` · `Homebrew` · `SSH` · `Networking` · `VS Code`
 
 ---
 
-Currently building and evolving **Mac Bootstrap Toolkit** toward a more complete and reproducible macOS environment management workflow.
+Currently building **Macseed** toward its first native macOS desktop release.
